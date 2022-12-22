@@ -1,4 +1,4 @@
-class hello < Formula
+class Hello < Formula
   desc ""
   homepage ""
   url "https://github.com/robertaz1/hello/archive/refs/tags/v1.0.0.tar.gz"
